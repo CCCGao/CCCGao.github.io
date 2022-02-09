@@ -16,7 +16,3 @@ thanks!!
 
 2022.2.9
 
-Others
-====
-
-abcd
