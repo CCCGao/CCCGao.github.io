@@ -11,3 +11,4 @@ redirect_from:
 Welcome to ChengGao's zone
 
 Hope you will enjoy yourself!
+thanks!!
